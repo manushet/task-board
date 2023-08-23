@@ -10,7 +10,13 @@
   },
   "devDependencies": {
     "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
     "@types/node": "^18.17.3",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@vueuse/nuxt": "^10.3.0",
+    "nanoid": "^4.0.2",
+    "vuedraggable": "^4.1.0"
   }
 }
